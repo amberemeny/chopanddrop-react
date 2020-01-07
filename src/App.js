@@ -1,26 +1,29 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react'
+    // Bootstrap Integration
+import 'bootstrap/dist/css/bootstrap.min.css'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    // Top-Level Components
+import Navigation from './components/navigation.component'
+import Testimonials from './components/testimonials.component'
+import Header from './components/header.component'
+import Ticker from './components/ticker.component'
+import Services from './components/services.component'
+import Footer from './components/footer.component'
+
+    // Conditional Components
+
+// Application Rendering
+export default class App extends Component {
+    render () {
+        return (
+            <div>
+                <Navigation />
+                <Header />
+                <Ticker />
+                <Services />
+                <Testimonials />
+                <Footer />
+            </div>
+        )
+    }
 }
-
-export default App;
