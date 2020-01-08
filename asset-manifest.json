@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/chopanddrop-react/static/css/main.1ebcc772.chunk.css",
-    "main.js": "/chopanddrop-react/static/js/main.b174a19b.chunk.js",
-    "main.js.map": "/chopanddrop-react/static/js/main.b174a19b.chunk.js.map",
-    "runtime-main.js": "/chopanddrop-react/static/js/runtime-main.0519aeb3.js",
-    "runtime-main.js.map": "/chopanddrop-react/static/js/runtime-main.0519aeb3.js.map",
+    "main.css": "/chopanddrop-react/static/css/main.07e0d7fc.chunk.css",
+    "main.js": "/chopanddrop-react/static/js/main.55c20649.chunk.js",
+    "main.js.map": "/chopanddrop-react/static/js/main.55c20649.chunk.js.map",
+    "runtime-main.js": "/chopanddrop-react/static/js/runtime-main.285ec204.js",
+    "runtime-main.js.map": "/chopanddrop-react/static/js/runtime-main.285ec204.js.map",
     "static/css/2.17e5ed98.chunk.css": "/chopanddrop-react/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.11e351fe.chunk.js": "/chopanddrop-react/static/js/2.11e351fe.chunk.js",
-    "static/js/2.11e351fe.chunk.js.map": "/chopanddrop-react/static/js/2.11e351fe.chunk.js.map",
+    "static/js/2.7adc41e1.chunk.js": "/chopanddrop-react/static/js/2.7adc41e1.chunk.js",
+    "static/js/2.7adc41e1.chunk.js.map": "/chopanddrop-react/static/js/2.7adc41e1.chunk.js.map",
     "index.html": "/chopanddrop-react/index.html",
-    "precache-manifest.35d6dde629cf740cb941d4c7f24a899f.js": "/chopanddrop-react/precache-manifest.35d6dde629cf740cb941d4c7f24a899f.js",
+    "precache-manifest.03b85354228707aec02b3a907715f6db.js": "/chopanddrop-react/precache-manifest.03b85354228707aec02b3a907715f6db.js",
     "service-worker.js": "/chopanddrop-react/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/chopanddrop-react/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.1ebcc772.chunk.css.map": "/chopanddrop-react/static/css/main.1ebcc772.chunk.css.map",
-    "static/js/2.11e351fe.chunk.js.LICENSE": "/chopanddrop-react/static/js/2.11e351fe.chunk.js.LICENSE"
+    "static/css/main.07e0d7fc.chunk.css.map": "/chopanddrop-react/static/css/main.07e0d7fc.chunk.css.map",
+    "static/js/2.7adc41e1.chunk.js.LICENSE": "/chopanddrop-react/static/js/2.7adc41e1.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.0519aeb3.js",
+    "static/js/runtime-main.285ec204.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.11e351fe.chunk.js",
-    "static/css/main.1ebcc772.chunk.css",
-    "static/js/main.b174a19b.chunk.js"
+    "static/js/2.7adc41e1.chunk.js",
+    "static/css/main.07e0d7fc.chunk.css",
+    "static/js/main.55c20649.chunk.js"
   ]
 }

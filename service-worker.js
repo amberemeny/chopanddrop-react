@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chopanddrop-react/precache-manifest.35d6dde629cf740cb941d4c7f24a899f.js"
+  "/chopanddrop-react/precache-manifest.03b85354228707aec02b3a907715f6db.js"
 );
 
 self.addEventListener('message', (event) => {
