@@ -6,7 +6,7 @@ export default class ContactForm extends Component {
         return (
             <div className="bg-secondary text-light" id="contactFormContainer">
                 <h3 className="text-center text-uppercase">Contact Us</h3>
-                <form action="https://formsubmit.co/amb3r94@gmail.com" method="POST">
+                <form target="_blank" action="https://formsubmit.co/chopanddroptreelop@gmail.com" method="POST">
                     <div id="fieldset">
                         <label for="name">Name:</label>
                         <input type="text" name="name" placeholder="John Smith" />
